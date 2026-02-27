@@ -30,6 +30,9 @@
 
 ### ⚙ Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=for-the-badge&logo=java)
 ![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
 
 ### 🗄 Database
